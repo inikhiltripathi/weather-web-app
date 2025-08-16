@@ -1,20 +1,11 @@
 # weather-web-app
 A Weather Web App built with HTML, CSS, and JavaScript that shows real-time weather details of any city.
 
-This is a To-Do List Web App that helps users manage daily tasks efficiently.
-It is built using HTML, CSS, and JavaScript with a simple, responsive, and user-friendly interface.
+It uses a weather API to display information like temperature, humidity, wind speed, and conditions with a simple and responsive UI.
 
 Features -
 
-Add new tasks
-Mark tasks as completed
-Delete tasks
-Save tasks in local storage (data remains even after refresh)
+Search weather by city name
+Shows temperature, humidity, and wind speed
+Displays current weather conditions with icons
 Responsive design for mobile and desktop
-
-
-Tech Used -
-
-HTML – Structure
-CSS – Styling and layout
-JavaScript – Functionality and task management
